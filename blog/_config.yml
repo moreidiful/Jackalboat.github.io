@@ -23,7 +23,7 @@ email: moreidiful@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Floating down the River of Life
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://Jackalboat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://moreidiful.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  moreidiful
 
 # Build settings
