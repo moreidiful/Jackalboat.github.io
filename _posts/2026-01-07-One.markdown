@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "pretty"
+permalink: One
 title:  "Hello World!"
 date:   2026-01-08 
 ---
