@@ -1,1 +1,0 @@
-# moreidiful.github.io
