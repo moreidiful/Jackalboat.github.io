@@ -1,2 +1,9 @@
+---
+layout: post
+title:  "lets see"
+date:   2026-01-08 
+categories: blog
+---
+
 testing out the blog yay
 this is my first go of it
