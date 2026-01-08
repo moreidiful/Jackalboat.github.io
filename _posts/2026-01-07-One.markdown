@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 permalink: pretty
 title:  "Hello World!"
 date:   2026-01-08 
