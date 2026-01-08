@@ -3,7 +3,6 @@ layout: post
 permalink: "pretty"
 title:  "Hello World!"
 date:   2026-01-08 
-categories: blog
 ---
 
 Hi, this is my first ever blog post! yay! You said I should post anything and everything, so I'll give that a try.
