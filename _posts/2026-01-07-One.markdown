@@ -1,9 +1,21 @@
 ---
-layout: post
-title:  "lets see"
+layout: posts
+permalink: pretty
+title:  "Hello World!"
 date:   2026-01-08 
 categories: blog
 ---
 
-testing out the blog yay
-this is my first go of it
+Hi, this is my first ever blog post! yay! You said I should post anything and everything, so I'll give that a try.
+
+Today I was inspired to create. Though it is often I'm not inspired I think it was something about the gloom in the air. Some days there is a sort of fog over everything (in the literal and metaphorical way) and the whole world starts to feel a bit dull. I don't like that feeling because I believe things are plenty grey already. Don't need the sky to follow suit. But it is usually these days I want to make things. Maybe to dispell some of that gloom. Maybe just because putting color and life into things makes me happy.
+
+On my walk today the pavement was covered in ice. You could see the water underneath it and sometimes it'd move when I stepped on it. Even though it makes my walk a bit harder I like the ice. I could see the footsteps of people who were there before me. There were tracks of wild animals and the pawprints of big winter-loving dogs. It reminded me of dinosaurs. I like dinosaurs. I wonder how they'd feel about being encased in something long after they've been there. I think there are things like this all over, if you look for them. 
+
+You can see the remains of bird nests in trees long after the birds left it. Marks left in trees by claws and weather and people who want to be remembered somewhere. There's hands and initials pressed into concrete, and chalk scribbled on the sidewalks. There are holes in clothes because someone wore them, scratches in cds because someone listened to them, folds and tears in books because someone read them. Everything is because of the world around it, so there is the evidence of life all around us! It's comforting, the mosiac of today.
+
+I think there's a lot of pressure sometimes to make a mark on the world. An impulse to be someone great, and do something worthwhile. I think the impulse is a good one, but only if the pursuit makes you happy too. That's not to say there's never difficult moments, but the process is just as important as the end result. There's this strange idea that life is a race, but it isn't. We have so much time and the only destination that matters is the one you desire, even if that's far away from what people tell you is the finish line. 
+
+We've seen handprints and stories painted on the walls of caves from ancient people become some of the greatest historcal marvels of our time. Bits of broken pottery or a child's doll or a written name become someones great find. A clue to unlocking more about the world before us. And I doubt any of those people were thinking "I will become someone by doing this" or "I will go down in history". The paintings were a conversation, the pottery was used, the doll was kissed before bed, the name was only marking ownership.
+
+All you need to be someone is say: "I am here". To yourself, to the world. And we already do it every day. I think things become easier when you realize it. I am here, writing a blog. You are here, reading a blog. So, we are both here being bugs caught in amber. Lingering handprints. I like that. I hope you linger somewhere a little longer today.
